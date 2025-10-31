@@ -30,4 +30,6 @@ int main()
     gsum=gsum+sum;
 }
 printf("%10d",gsum);
+    printf("Another change made by Ayush.")
 }
+
