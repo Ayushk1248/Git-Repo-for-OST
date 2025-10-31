@@ -25,4 +25,6 @@ int main()
         for(j=1;j<=n;j++)
             printf("%4d",c[i][j]);
     }
+    printf("Changes made by Ayush.");
 }
+
